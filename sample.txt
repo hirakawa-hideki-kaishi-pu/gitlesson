@@ -1,4 +1,4 @@
 "Hello Git 2" 
 added chars
 3rd commit
-10/1 hiking
+10/1 hiking main2
