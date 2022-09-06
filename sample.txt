@@ -1,2 +1,4 @@
 "Hello Git 2" 
 added chars
+3rd commit
+10/2 hiking news
